@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:camunda="http://camunda.org/schema/1.0/bpmn" xmlns:bioc="http://bpmn.io/schema/bpmn/biocolor/1.0" xmlns:color="http://www.omg.org/spec/BPMN/non-normative/color/1.0" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" xmlns:modeler="http://camunda.org/schema/modeler/1.0" id="Definitions_0wnm6cg" targetNamespace="http://bpmn.io/schema/bpmn" exporter="Camunda Modeler" exporterVersion="5.16.0" modeler:executionPlatform="Camunda Platform" modeler:executionPlatformVersion="7.20.0">
+  <bpmn:process id="employee-onboarding" name="Employee onboarding" isExecutable="true" camunda:historyTimeToLive="180">
+    <bpmn:startEvent id="StartEvent_1" name="Start onboarding">
+      <bpmn:extensionElements>
+        <camunda:executionListener event="start">
+          <camunda:script scriptFormat="js">console.log(environment.variables.input);
+next();</camunda:script>
+        </camunda:executionListener>
+      </bpmn:extensionElements>
+      <bpmn:outgoing>Flow_1o5utlt</bpmn:outgoing>
+    </bpmn:startEvent>
+    <bpmn:task id="informHR" name="Inform HR">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:inputParameter name="state">
+            <camunda:script scriptFormat="js">next(null, {name: content.name, id: content.id});</camunda:script>
+          </camunda:inputParameter>
+          <camunda:outputParameter name="state">
+            <camunda:script scriptFormat="js">next(null, {id: content.id, result: {done: true}});</camunda:script>
+          </camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>Flow_1o5utlt</bpmn:incoming>
+      <bpmn:outgoing>Flow_1r10iw3</bpmn:outgoing>
+    </bpmn:task>
+    <bpmn:sequenceFlow id="Flow_1o5utlt" sourceRef="StartEvent_1" targetRef="informHR" />
+    <bpmn:task id="orderUserAccount" name="Order user account">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:inputParameter name="state">
+            <camunda:script scriptFormat="js">next(null, {name: content.name, id: content.id});</camunda:script>
+          </camunda:inputParameter>
+          <camunda:outputParameter name="state">
+            <camunda:script scriptFormat="js">next(null, {id: content.id, result: {done: true}});</camunda:script>
+          </camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>Flow_1r10iw3</bpmn:incoming>
+      <bpmn:outgoing>Flow_1mw5351</bpmn:outgoing>
+    </bpmn:task>
+    <bpmn:sequenceFlow id="Flow_1r10iw3" sourceRef="informHR" targetRef="orderUserAccount" />
+    <bpmn:task id="orderIT" name="Order IT equipment">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:inputParameter name="state">
+            <camunda:script scriptFormat="js">next(null, {name: content.name, id: content.id});</camunda:script>
+          </camunda:inputParameter>
+          <camunda:outputParameter name="state">
+            <camunda:script scriptFormat="js">next(null, {id: content.id, result: {done: true}});</camunda:script>
+          </camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>Flow_1mw5351</bpmn:incoming>
+      <bpmn:outgoing>Flow_1x2akh1</bpmn:outgoing>
+    </bpmn:task>
+    <bpmn:sequenceFlow id="Flow_1mw5351" sourceRef="orderUserAccount" targetRef="orderIT" />
+    <bpmn:endEvent id="Event_1m4v3d0" name="Onboarding finished">
+      <bpmn:incoming>Flow_0wxvdol</bpmn:incoming>
+    </bpmn:endEvent>
+    <bpmn:task id="orderFlowers" name="Order flowers">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:inputParameter name="state">
+            <camunda:script scriptFormat="js">next(null, {name: content.name, id: content.id});</camunda:script>
+          </camunda:inputParameter>
+          <camunda:outputParameter name="state">
+            <camunda:script scriptFormat="js">next(null, {id: content.id, result: {done: true}});</camunda:script>
+          </camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>Flow_1x2akh1</bpmn:incoming>
+      <bpmn:outgoing>Flow_07qy68e</bpmn:outgoing>
+    </bpmn:task>
+    <bpmn:task id="sendWelcomeMail" name="Send welcome mail">
+      <bpmn:extensionElements>
+        <camunda:inputOutput>
+          <camunda:inputParameter name="state">
+            <camunda:script scriptFormat="js">next(null, {name: content.name, id: content.id});</camunda:script>
+          </camunda:inputParameter>
+          <camunda:outputParameter name="state">
+            <camunda:script scriptFormat="js">next(null, {id: content.id, result: {done: true}});</camunda:script>
+          </camunda:outputParameter>
+        </camunda:inputOutput>
+      </bpmn:extensionElements>
+      <bpmn:incoming>Flow_07qy68e</bpmn:incoming>
+      <bpmn:outgoing>Flow_0wxvdol</bpmn:outgoing>
+    </bpmn:task>
+    <bpmn:sequenceFlow id="Flow_1x2akh1" sourceRef="orderIT" targetRef="orderFlowers" />
+    <bpmn:sequenceFlow id="Flow_07qy68e" sourceRef="orderFlowers" targetRef="sendWelcomeMail" />
+    <bpmn:sequenceFlow id="Flow_0wxvdol" sourceRef="sendWelcomeMail" targetRef="Event_1m4v3d0" />
+  </bpmn:process>
+  <bpmndi:BPMNDiagram id="BPMNDiagram_1">
+    <bpmndi:BPMNPlane id="BPMNPlane_1" bpmnElement="employee-onboarding">
+      <bpmndi:BPMNShape id="Activity_0qnzvwf_di" bpmnElement="informHR">
+        <dc:Bounds x="290" y="77" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_0agtp4p_di" bpmnElement="orderUserAccount">
+        <dc:Bounds x="450" y="77" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_09a8mus_di" bpmnElement="orderIT">
+        <dc:Bounds x="600" y="77" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_10igbwz_di" bpmnElement="orderFlowers">
+        <dc:Bounds x="750" y="77" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_0v1pulq_di" bpmnElement="sendWelcomeMail">
+        <dc:Bounds x="910" y="77" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_1m4v3d0_di" bpmnElement="Event_1m4v3d0" bioc:stroke="#831311" bioc:fill="#ffcdd2" color:background-color="#ffcdd2" color:border-color="#831311">
+        <dc:Bounds x="1092" y="99" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="1081" y="142" width="58" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="_BPMNShape_StartEvent_2" bpmnElement="StartEvent_1" bioc:stroke="#205022" bioc:fill="#c8e6c9" color:background-color="#c8e6c9" color:border-color="#205022">
+        <dc:Bounds x="182" y="99" width="36" height="36" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="159" y="142" width="82" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="Flow_1o5utlt_di" bpmnElement="Flow_1o5utlt">
+        <di:waypoint x="218" y="117" />
+        <di:waypoint x="290" y="117" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1r10iw3_di" bpmnElement="Flow_1r10iw3">
+        <di:waypoint x="390" y="117" />
+        <di:waypoint x="450" y="117" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1mw5351_di" bpmnElement="Flow_1mw5351">
+        <di:waypoint x="550" y="117" />
+        <di:waypoint x="600" y="117" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1x2akh1_di" bpmnElement="Flow_1x2akh1">
+        <di:waypoint x="700" y="117" />
+        <di:waypoint x="750" y="117" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_07qy68e_di" bpmnElement="Flow_07qy68e">
+        <di:waypoint x="850" y="117" />
+        <di:waypoint x="910" y="117" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_0wxvdol_di" bpmnElement="Flow_0wxvdol">
+        <di:waypoint x="1010" y="117" />
+        <di:waypoint x="1092" y="117" />
+      </bpmndi:BPMNEdge>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</bpmn:definitions>

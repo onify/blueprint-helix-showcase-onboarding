@@ -1,0 +1,1902 @@
+[
+  {
+    "key": "vlenormand0",
+    "name": "Veronique Lenormand",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "vlenormand0",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Wordtune",
+      "department": "Business Development",
+      "firstname": "Veronique",
+      "lastname": "Lenormand",
+      "email": "vlenormand0@ifeng.com",
+      "gender": "Agender",
+      "jobtitle": "Programmer I",
+      "username": "vlenormand0"
+    }
+  },
+  {
+    "key": "jsebright1",
+    "name": "Johan Sebright",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "jsebright1",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Eidel",
+      "department": "Support",
+      "firstname": "Johan",
+      "lastname": "Sebright",
+      "email": "jsebright1@booking.com",
+      "gender": "Male",
+      "jobtitle": "Quality Engineer",
+      "username": "jsebright1"
+    }
+  },
+  {
+    "key": "pnolda2",
+    "name": "Padgett Nolda",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "pnolda2",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Gabvine",
+      "department": "Training",
+      "firstname": "Padgett",
+      "lastname": "Nolda",
+      "email": "pnolda2@patch.com",
+      "gender": "Male",
+      "jobtitle": "Legal Assistant",
+      "username": "pnolda2"
+    }
+  },
+  {
+    "key": "gpelling3",
+    "name": "Gonzalo Pelling",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "gpelling3",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Twimm",
+      "department": "Services",
+      "firstname": "Gonzalo",
+      "lastname": "Pelling",
+      "email": "gpelling3@utexas.edu",
+      "gender": "Male",
+      "jobtitle": "Social Worker",
+      "username": "gpelling3"
+    }
+  },
+  {
+    "key": "wkynder4",
+    "name": "Wendye Kynder",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "wkynder4",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Riffwire",
+      "department": "Legal",
+      "firstname": "Wendye",
+      "lastname": "Kynder",
+      "email": "wkynder4@mozilla.org",
+      "gender": "Female",
+      "jobtitle": "Biostatistician III",
+      "username": "wkynder4"
+    }
+  },
+  {
+    "key": "lantonescu5",
+    "name": "Leoline Antonescu",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "lantonescu5",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Thoughtstorm",
+      "department": "Business Development",
+      "firstname": "Leoline",
+      "lastname": "Antonescu",
+      "email": "lantonescu5@yellowpages.com",
+      "gender": "Female",
+      "jobtitle": "Cost Accountant",
+      "username": "lantonescu5"
+    }
+  },
+  {
+    "key": "ldunhill6",
+    "name": "Loutitia Dunhill",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "ldunhill6",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Geba",
+      "department": "Research and Development",
+      "firstname": "Loutitia",
+      "lastname": "Dunhill",
+      "email": "ldunhill6@over-blog.com",
+      "gender": "Female",
+      "jobtitle": "Senior Editor",
+      "username": "ldunhill6"
+    }
+  },
+  {
+    "key": "bwastall7",
+    "name": "Bryon Wastall",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "bwastall7",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Topiczoom",
+      "department": "Legal",
+      "firstname": "Bryon",
+      "lastname": "Wastall",
+      "email": "bwastall7@samsung.com",
+      "gender": "Male",
+      "jobtitle": "Legal Assistant",
+      "username": "bwastall7"
+    }
+  },
+  {
+    "key": "bbrooker8",
+    "name": "Bendicty Brooker",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "bbrooker8",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Ainyx",
+      "department": "Research and Development",
+      "firstname": "Bendicty",
+      "lastname": "Brooker",
+      "email": "bbrooker8@ehow.com",
+      "gender": "Male",
+      "jobtitle": "Human Resources Assistant I",
+      "username": "bbrooker8"
+    }
+  },
+  {
+    "key": "vberzons9",
+    "name": "Vivia Berzons",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "vberzons9",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Plambee",
+      "department": "Training",
+      "firstname": "Vivia",
+      "lastname": "Berzons",
+      "email": "vberzons9@dailymotion.com",
+      "gender": "Female",
+      "jobtitle": "Senior Editor",
+      "username": "vberzons9"
+    }
+  },
+  {
+    "key": "rwhithalgha",
+    "name": "Roselin Whithalgh",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "rwhithalgha",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Tagfeed",
+      "department": "Training",
+      "firstname": "Roselin",
+      "lastname": "Whithalgh",
+      "email": "rwhithalgha@yahoo.com",
+      "gender": "Female",
+      "jobtitle": "Chemical Engineer",
+      "username": "rwhithalgha"
+    }
+  },
+  {
+    "key": "adimmackb",
+    "name": "Annelise Dimmack",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "adimmackb",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Edgetag",
+      "department": "Engineering",
+      "firstname": "Annelise",
+      "lastname": "Dimmack",
+      "email": "adimmackb@un.org",
+      "gender": "Female",
+      "jobtitle": "Software Consultant",
+      "username": "adimmackb"
+    }
+  },
+  {
+    "key": "zrumensc",
+    "name": "Zed Rumens",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "zrumensc",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Skalith",
+      "department": "Business Development",
+      "firstname": "Zed",
+      "lastname": "Rumens",
+      "email": "zrumensc@nationalgeographic.com",
+      "gender": "Male",
+      "jobtitle": "Database Administrator II",
+      "username": "zrumensc"
+    }
+  },
+  {
+    "key": "dshepeardd",
+    "name": "Drucy Shepeard",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "dshepeardd",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Blognation",
+      "department": "Marketing",
+      "firstname": "Drucy",
+      "lastname": "Shepeard",
+      "email": "dshepeardd@cmu.edu",
+      "gender": "Female",
+      "jobtitle": "Programmer Analyst I",
+      "username": "dshepeardd"
+    }
+  },
+  {
+    "key": "gisitte",
+    "name": "Gerianne Isitt",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "gisitte",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Feedmix",
+      "department": "Product Management",
+      "firstname": "Gerianne",
+      "lastname": "Isitt",
+      "email": "gisitte@merriam-webster.com",
+      "gender": "Female",
+      "jobtitle": "Sales Associate",
+      "username": "gisitte"
+    }
+  },
+  {
+    "key": "kknightonf",
+    "name": "Kelli Knighton",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "kknightonf",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Gigazoom",
+      "department": "Sales",
+      "firstname": "Kelli",
+      "lastname": "Knighton",
+      "email": "kknightonf@ustream.tv",
+      "gender": "Female",
+      "jobtitle": "Recruiter",
+      "username": "kknightonf"
+    }
+  },
+  {
+    "key": "sbolusg",
+    "name": "Sandye Bolus",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "sbolusg",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Tanoodle",
+      "department": "Engineering",
+      "firstname": "Sandye",
+      "lastname": "Bolus",
+      "email": "sbolusg@hao123.com",
+      "gender": "Female",
+      "jobtitle": "Programmer Analyst I",
+      "username": "sbolusg"
+    }
+  },
+  {
+    "key": "ytoplinh",
+    "name": "Yehudit Toplin",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "ytoplinh",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Meevee",
+      "department": "Accounting",
+      "firstname": "Yehudit",
+      "lastname": "Toplin",
+      "email": "ytoplinh@tuttocitta.it",
+      "gender": "Male",
+      "jobtitle": "Programmer III",
+      "username": "ytoplinh"
+    }
+  },
+  {
+    "key": "cwarwicki",
+    "name": "Cello Warwick",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "cwarwicki",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Browsedrive",
+      "department": "Product Management",
+      "firstname": "Cello",
+      "lastname": "Warwick",
+      "email": "cwarwicki@phoca.cz",
+      "gender": "Male",
+      "jobtitle": "Executive Secretary",
+      "username": "cwarwicki"
+    }
+  },
+  {
+    "key": "wgorettij",
+    "name": "Westleigh Goretti",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "wgorettij",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Skinix",
+      "department": "Marketing",
+      "firstname": "Westleigh",
+      "lastname": "Goretti",
+      "email": "wgorettij@bing.com",
+      "gender": "Male",
+      "jobtitle": "Structural Analysis Engineer",
+      "username": "wgorettij"
+    }
+  },
+  {
+    "key": "hingletonk",
+    "name": "Hercules Ingleton",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "hingletonk",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Feedbug",
+      "department": "Sales",
+      "firstname": "Hercules",
+      "lastname": "Ingleton",
+      "email": "hingletonk@sbwire.com",
+      "gender": "Non-binary",
+      "jobtitle": "Research Nurse",
+      "username": "hingletonk"
+    }
+  },
+  {
+    "key": "dportressl",
+    "name": "Darbee Portress",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "dportressl",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Einti",
+      "department": "Research and Development",
+      "firstname": "Darbee",
+      "lastname": "Portress",
+      "email": "dportressl@free.fr",
+      "gender": "Male",
+      "jobtitle": "Accountant III",
+      "username": "dportressl"
+    }
+  },
+  {
+    "key": "calbinsonm",
+    "name": "Clarence Albinson",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "calbinsonm",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Gevee",
+      "department": "Product Management",
+      "firstname": "Clarence",
+      "lastname": "Albinson",
+      "email": "calbinsonm@blogger.com",
+      "gender": "Male",
+      "jobtitle": "Financial Analyst",
+      "username": "calbinsonm"
+    }
+  },
+  {
+    "key": "lpolendinen",
+    "name": "Leontyne Polendine",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "lpolendinen",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Devcast",
+      "department": "Research and Development",
+      "firstname": "Leontyne",
+      "lastname": "Polendine",
+      "email": "lpolendinen@ucoz.ru",
+      "gender": "Female",
+      "jobtitle": "Research Nurse",
+      "username": "lpolendinen"
+    }
+  },
+  {
+    "key": "emaccaugheyo",
+    "name": "Efrem MacCaughey",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "emaccaugheyo",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Topicstorm",
+      "department": "Services",
+      "firstname": "Efrem",
+      "lastname": "MacCaughey",
+      "email": "emaccaugheyo@desdev.cn",
+      "gender": "Male",
+      "jobtitle": "Quality Engineer",
+      "username": "emaccaugheyo"
+    }
+  },
+  {
+    "key": "tmorduep",
+    "name": "Thadeus Mordue",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "tmorduep",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Trudeo",
+      "department": "Support",
+      "firstname": "Thadeus",
+      "lastname": "Mordue",
+      "email": "tmorduep@ft.com",
+      "gender": "Male",
+      "jobtitle": "Biostatistician III",
+      "username": "tmorduep"
+    }
+  },
+  {
+    "key": "clambertzq",
+    "name": "Chere Lambertz",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "clambertzq",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Centimia",
+      "department": "Marketing",
+      "firstname": "Chere",
+      "lastname": "Lambertz",
+      "email": "clambertzq@globo.com",
+      "gender": "Non-binary",
+      "jobtitle": "Dental Hygienist",
+      "username": "clambertzq"
+    }
+  },
+  {
+    "key": "blappiner",
+    "name": "Bary Lappine",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "blappiner",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Pixope",
+      "department": "Services",
+      "firstname": "Bary",
+      "lastname": "Lappine",
+      "email": "blappiner@gnu.org",
+      "gender": "Male",
+      "jobtitle": "Senior Quality Engineer",
+      "username": "blappiner"
+    }
+  },
+  {
+    "key": "witzhayeks",
+    "name": "Wittie Itzhayek",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "witzhayeks",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Kwilith",
+      "department": "Marketing",
+      "firstname": "Wittie",
+      "lastname": "Itzhayek",
+      "email": "witzhayeks@jigsy.com",
+      "gender": "Non-binary",
+      "jobtitle": "Programmer II",
+      "username": "witzhayeks"
+    }
+  },
+  {
+    "key": "mathertont",
+    "name": "Martita Atherton",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "mathertont",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Avaveo",
+      "department": "Training",
+      "firstname": "Martita",
+      "lastname": "Atherton",
+      "email": "mathertont@techcrunch.com",
+      "gender": "Female",
+      "jobtitle": "Mechanical Systems Engineer",
+      "username": "mathertont"
+    }
+  },
+  {
+    "key": "slowneu",
+    "name": "Sydelle Lowne",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "slowneu",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Bluejam",
+      "department": "Support",
+      "firstname": "Sydelle",
+      "lastname": "Lowne",
+      "email": "slowneu@youtube.com",
+      "gender": "Female",
+      "jobtitle": "Social Worker",
+      "username": "slowneu"
+    }
+  },
+  {
+    "key": "nwhitebrookv",
+    "name": "Nick Whitebrook",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "nwhitebrookv",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Skyvu",
+      "department": "Human Resources",
+      "firstname": "Nick",
+      "lastname": "Whitebrook",
+      "email": "nwhitebrookv@google.cn",
+      "gender": "Bigender",
+      "jobtitle": "Quality Control Specialist",
+      "username": "nwhitebrookv"
+    }
+  },
+  {
+    "key": "ghambrightw",
+    "name": "Gladys Hambright",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "ghambrightw",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Brainlounge",
+      "department": "Human Resources",
+      "firstname": "Gladys",
+      "lastname": "Hambright",
+      "email": "ghambrightw@nba.com",
+      "gender": "Female",
+      "jobtitle": "Business Systems Development Analyst",
+      "username": "ghambrightw"
+    }
+  },
+  {
+    "key": "ublanningx",
+    "name": "Urbanus Blanning",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "ublanningx",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Realfire",
+      "department": "Marketing",
+      "firstname": "Urbanus",
+      "lastname": "Blanning",
+      "email": "ublanningx@nba.com",
+      "gender": "Male",
+      "jobtitle": "Marketing Assistant",
+      "username": "ublanningx"
+    }
+  },
+  {
+    "key": "cainsleey",
+    "name": "Cullen Ainslee",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "cainsleey",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Npath",
+      "department": "Services",
+      "firstname": "Cullen",
+      "lastname": "Ainslee",
+      "email": "cainsleey@nationalgeographic.com",
+      "gender": "Male",
+      "jobtitle": "Media Manager II",
+      "username": "cainsleey"
+    }
+  },
+  {
+    "key": "mhaggisz",
+    "name": "Meade Haggis",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "mhaggisz",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Zazio",
+      "department": "Business Development",
+      "firstname": "Meade",
+      "lastname": "Haggis",
+      "email": "mhaggisz@wordpress.com",
+      "gender": "Genderqueer",
+      "jobtitle": "Assistant Media Planner",
+      "username": "mhaggisz"
+    }
+  },
+  {
+    "key": "bcasley10",
+    "name": "Boycey Casley",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "bcasley10",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Eare",
+      "department": "Research and Development",
+      "firstname": "Boycey",
+      "lastname": "Casley",
+      "email": "bcasley10@bbc.co.uk",
+      "gender": "Male",
+      "jobtitle": "Software Test Engineer II",
+      "username": "bcasley10"
+    }
+  },
+  {
+    "key": "lfish11",
+    "name": "Leshia Fish",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "lfish11",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Latz",
+      "department": "Human Resources",
+      "firstname": "Leshia",
+      "lastname": "Fish",
+      "email": "lfish11@imdb.com",
+      "gender": "Female",
+      "jobtitle": "Software Consultant",
+      "username": "lfish11"
+    }
+  },
+  {
+    "key": "bboswood12",
+    "name": "Benny Boswood",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "bboswood12",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Fivechat",
+      "department": "Human Resources",
+      "firstname": "Benny",
+      "lastname": "Boswood",
+      "email": "bboswood12@virginia.edu",
+      "gender": "Female",
+      "jobtitle": "Associate Professor",
+      "username": "bboswood12"
+    }
+  },
+  {
+    "key": "mcorkhill13",
+    "name": "Moria Corkhill",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "mcorkhill13",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Gigazoom",
+      "department": "Research and Development",
+      "firstname": "Moria",
+      "lastname": "Corkhill",
+      "email": "mcorkhill13@geocities.com",
+      "gender": "Female",
+      "jobtitle": "Marketing Manager",
+      "username": "mcorkhill13"
+    }
+  },
+  {
+    "key": "cfarnall14",
+    "name": "Chadd Farnall",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "cfarnall14",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Babbleopia",
+      "department": "Engineering",
+      "firstname": "Chadd",
+      "lastname": "Farnall",
+      "email": "cfarnall14@1und1.de",
+      "gender": "Male",
+      "jobtitle": "Electrical Engineer",
+      "username": "cfarnall14"
+    }
+  },
+  {
+    "key": "tdykas15",
+    "name": "Travers Dykas",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "tdykas15",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Youfeed",
+      "department": "Engineering",
+      "firstname": "Travers",
+      "lastname": "Dykas",
+      "email": "tdykas15@arstechnica.com",
+      "gender": "Genderfluid",
+      "jobtitle": "Research Associate",
+      "username": "tdykas15"
+    }
+  },
+  {
+    "key": "ebackes16",
+    "name": "Eamon Backes",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "ebackes16",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Realmix",
+      "department": "Marketing",
+      "firstname": "Eamon",
+      "lastname": "Backes",
+      "email": "ebackes16@xing.com",
+      "gender": "Male",
+      "jobtitle": "Recruiting Manager",
+      "username": "ebackes16"
+    }
+  },
+  {
+    "key": "gstibbs17",
+    "name": "Guenevere Stibbs",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "gstibbs17",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Abata",
+      "department": "Marketing",
+      "firstname": "Guenevere",
+      "lastname": "Stibbs",
+      "email": "gstibbs17@gravatar.com",
+      "gender": "Female",
+      "jobtitle": "Budget/Accounting Analyst III",
+      "username": "gstibbs17"
+    }
+  },
+  {
+    "key": "ehorney18",
+    "name": "Ellis Horney",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "ehorney18",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Buzzbean",
+      "department": "Services",
+      "firstname": "Ellis",
+      "lastname": "Horney",
+      "email": "ehorney18@acquirethisname.com",
+      "gender": "Male",
+      "jobtitle": "Budget/Accounting Analyst II",
+      "username": "ehorney18"
+    }
+  },
+  {
+    "key": "tlafond19",
+    "name": "Tallou Lafond",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "tlafond19",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Wordtune",
+      "department": "Sales",
+      "firstname": "Tallou",
+      "lastname": "Lafond",
+      "email": "tlafond19@twitpic.com",
+      "gender": "Female",
+      "jobtitle": "Computer Systems Analyst I",
+      "username": "tlafond19"
+    }
+  },
+  {
+    "key": "tpatis1a",
+    "name": "Trevar Patis",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "tpatis1a",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Linktype",
+      "department": "Sales",
+      "firstname": "Trevar",
+      "lastname": "Patis",
+      "email": "tpatis1a@mysql.com",
+      "gender": "Male",
+      "jobtitle": "Mechanical Systems Engineer",
+      "username": "tpatis1a"
+    }
+  },
+  {
+    "key": "pvan1b",
+    "name": "Peg Van der Kruijs",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "pvan1b",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Browsezoom",
+      "department": "Research and Development",
+      "firstname": "Peg",
+      "lastname": "Van der Kruijs",
+      "email": "pvan1b@amazon.co.jp",
+      "gender": "Female",
+      "jobtitle": "Structural Engineer",
+      "username": "pvan1b"
+    }
+  },
+  {
+    "key": "ewaldock1c",
+    "name": "Emili Waldock",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "ewaldock1c",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Oozz",
+      "department": "Support",
+      "firstname": "Emili",
+      "lastname": "Waldock",
+      "email": "ewaldock1c@aol.com",
+      "gender": "Female",
+      "jobtitle": "Chief Design Engineer",
+      "username": "ewaldock1c"
+    }
+  },
+  {
+    "key": "fmcgoon1d",
+    "name": "Fallon McGoon",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "fmcgoon1d",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Dynabox",
+      "department": "Human Resources",
+      "firstname": "Fallon",
+      "lastname": "McGoon",
+      "email": "fmcgoon1d@liveinternet.ru",
+      "gender": "Genderfluid",
+      "jobtitle": "Sales Representative",
+      "username": "fmcgoon1d"
+    }
+  },
+  {
+    "key": "rlorait1e",
+    "name": "Rochell Lorait",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "rlorait1e",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Meevee",
+      "department": "Support",
+      "firstname": "Rochell",
+      "lastname": "Lorait",
+      "email": "rlorait1e@craigslist.org",
+      "gender": "Female",
+      "jobtitle": "Biostatistician II",
+      "username": "rlorait1e"
+    }
+  },
+  {
+    "key": "alaing1f",
+    "name": "Anna-maria Laing",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "alaing1f",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Fatz",
+      "department": "Business Development",
+      "firstname": "Anna-maria",
+      "lastname": "Laing",
+      "email": "alaing1f@people.com.cn",
+      "gender": "Agender",
+      "jobtitle": "Social Worker",
+      "username": "alaing1f"
+    }
+  },
+  {
+    "key": "sdrewry1g",
+    "name": "Sanford Drewry",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "sdrewry1g",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Oozz",
+      "department": "Research and Development",
+      "firstname": "Sanford",
+      "lastname": "Drewry",
+      "email": "sdrewry1g@economist.com",
+      "gender": "Male",
+      "jobtitle": "Marketing Manager",
+      "username": "sdrewry1g"
+    }
+  },
+  {
+    "key": "tmartelet1h",
+    "name": "Tonye Martelet",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "tmartelet1h",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Meevee",
+      "department": "Sales",
+      "firstname": "Tonye",
+      "lastname": "Martelet",
+      "email": "tmartelet1h@wordpress.com",
+      "gender": "Female",
+      "jobtitle": "Paralegal",
+      "username": "tmartelet1h"
+    }
+  },
+  {
+    "key": "csultana1i",
+    "name": "Corrine Sultana",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "csultana1i",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Eazzy",
+      "department": "Support",
+      "firstname": "Corrine",
+      "lastname": "Sultana",
+      "email": "csultana1i@pagesperso-orange.fr",
+      "gender": "Female",
+      "jobtitle": "Nuclear Power Engineer",
+      "username": "csultana1i"
+    }
+  },
+  {
+    "key": "ljevon1j",
+    "name": "Lina Jevon",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "ljevon1j",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Fivechat",
+      "department": "Support",
+      "firstname": "Lina",
+      "lastname": "Jevon",
+      "email": "ljevon1j@twitter.com",
+      "gender": "Polygender",
+      "jobtitle": "Payment Adjustment Coordinator",
+      "username": "ljevon1j"
+    }
+  },
+  {
+    "key": "lmethringham1k",
+    "name": "Lindsay Methringham",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "lmethringham1k",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "InnoZ",
+      "department": "Engineering",
+      "firstname": "Lindsay",
+      "lastname": "Methringham",
+      "email": "lmethringham1k@mysql.com",
+      "gender": "Female",
+      "jobtitle": "Safety Technician I",
+      "username": "lmethringham1k"
+    }
+  },
+  {
+    "key": "lbrockman1l",
+    "name": "Libbi Brockman",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "lbrockman1l",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Thoughtbridge",
+      "department": "Support",
+      "firstname": "Libbi",
+      "lastname": "Brockman",
+      "email": "lbrockman1l@princeton.edu",
+      "gender": "Genderfluid",
+      "jobtitle": "Nuclear Power Engineer",
+      "username": "lbrockman1l"
+    }
+  },
+  {
+    "key": "mgullam1m",
+    "name": "Mozelle Gullam",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "mgullam1m",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Babbleopia",
+      "department": "Business Development",
+      "firstname": "Mozelle",
+      "lastname": "Gullam",
+      "email": "mgullam1m@dailymail.co.uk",
+      "gender": "Female",
+      "jobtitle": "VP Marketing",
+      "username": "mgullam1m"
+    }
+  },
+  {
+    "key": "adaft1n",
+    "name": "Alleen Daft",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "adaft1n",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Minyx",
+      "department": "Support",
+      "firstname": "Alleen",
+      "lastname": "Daft",
+      "email": "adaft1n@bandcamp.com",
+      "gender": "Female",
+      "jobtitle": "Cost Accountant",
+      "username": "adaft1n"
+    }
+  },
+  {
+    "key": "irigolle1o",
+    "name": "Inesita Rigolle",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "irigolle1o",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Realcube",
+      "department": "Support",
+      "firstname": "Inesita",
+      "lastname": "Rigolle",
+      "email": "irigolle1o@accuweather.com",
+      "gender": "Female",
+      "jobtitle": "Developer II",
+      "username": "irigolle1o"
+    }
+  },
+  {
+    "key": "lwoodrup1p",
+    "name": "Lucienne Woodrup",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "lwoodrup1p",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Pixope",
+      "department": "Marketing",
+      "firstname": "Lucienne",
+      "lastname": "Woodrup",
+      "email": "lwoodrup1p@mlb.com",
+      "gender": "Female",
+      "jobtitle": "Web Designer I",
+      "username": "lwoodrup1p"
+    }
+  },
+  {
+    "key": "abantham1q",
+    "name": "Allene Bantham",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "abantham1q",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Zoonder",
+      "department": "Sales",
+      "firstname": "Allene",
+      "lastname": "Bantham",
+      "email": "abantham1q@nih.gov",
+      "gender": "Female",
+      "jobtitle": "Programmer Analyst IV",
+      "username": "abantham1q"
+    }
+  },
+  {
+    "key": "llamplugh1r",
+    "name": "Letitia Lamplugh",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "llamplugh1r",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Trunyx",
+      "department": "Sales",
+      "firstname": "Letitia",
+      "lastname": "Lamplugh",
+      "email": "llamplugh1r@creativecommons.org",
+      "gender": "Female",
+      "jobtitle": "Research Nurse",
+      "username": "llamplugh1r"
+    }
+  },
+  {
+    "key": "lyakovich1s",
+    "name": "Lesley Yakovich",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "lyakovich1s",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Rhynyx",
+      "department": "Research and Development",
+      "firstname": "Lesley",
+      "lastname": "Yakovich",
+      "email": "lyakovich1s@joomla.org",
+      "gender": "Male",
+      "jobtitle": "Associate Professor",
+      "username": "lyakovich1s"
+    }
+  },
+  {
+    "key": "tkalinowsky1t",
+    "name": "Tymothy Kalinowsky",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "tkalinowsky1t",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Gigaclub",
+      "department": "Human Resources",
+      "firstname": "Tymothy",
+      "lastname": "Kalinowsky",
+      "email": "tkalinowsky1t@irs.gov",
+      "gender": "Male",
+      "jobtitle": "Executive Secretary",
+      "username": "tkalinowsky1t"
+    }
+  },
+  {
+    "key": "omacvean1u",
+    "name": "Olag MacVean",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "omacvean1u",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Kwilith",
+      "department": "Business Development",
+      "firstname": "Olag",
+      "lastname": "MacVean",
+      "email": "omacvean1u@ucoz.com",
+      "gender": "Male",
+      "jobtitle": "Operator",
+      "username": "omacvean1u"
+    }
+  },
+  {
+    "key": "cfucher1v",
+    "name": "Cherlyn Fucher",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "cfucher1v",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Photospace",
+      "department": "Services",
+      "firstname": "Cherlyn",
+      "lastname": "Fucher",
+      "email": "cfucher1v@mashable.com",
+      "gender": "Female",
+      "jobtitle": "Project Manager",
+      "username": "cfucher1v"
+    }
+  },
+  {
+    "key": "dfawssett1w",
+    "name": "Dael Fawssett",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "dfawssett1w",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Devcast",
+      "department": "Sales",
+      "firstname": "Dael",
+      "lastname": "Fawssett",
+      "email": "dfawssett1w@wikia.com",
+      "gender": "Male",
+      "jobtitle": "Web Developer I",
+      "username": "dfawssett1w"
+    }
+  },
+  {
+    "key": "tpurkiss1x",
+    "name": "Tobey Purkiss",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "tpurkiss1x",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Teklist",
+      "department": "Training",
+      "firstname": "Tobey",
+      "lastname": "Purkiss",
+      "email": "tpurkiss1x@netlog.com",
+      "gender": "Female",
+      "jobtitle": "Statistician II",
+      "username": "tpurkiss1x"
+    }
+  },
+  {
+    "key": "ckuhle1y",
+    "name": "Collie Kuhle",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "ckuhle1y",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Yabox",
+      "department": "Sales",
+      "firstname": "Collie",
+      "lastname": "Kuhle",
+      "email": "ckuhle1y@flavors.me",
+      "gender": "Female",
+      "jobtitle": "Electrical Engineer",
+      "username": "ckuhle1y"
+    }
+  },
+  {
+    "key": "wrouby1z",
+    "name": "Worth Rouby",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "wrouby1z",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Demivee",
+      "department": "Business Development",
+      "firstname": "Worth",
+      "lastname": "Rouby",
+      "email": "wrouby1z@mysql.com",
+      "gender": "Male",
+      "jobtitle": "Geological Engineer",
+      "username": "wrouby1z"
+    }
+  },
+  {
+    "key": "jcalbaithe20",
+    "name": "Jase Calbaithe",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "jcalbaithe20",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Photobug",
+      "department": "Human Resources",
+      "firstname": "Jase",
+      "lastname": "Calbaithe",
+      "email": "jcalbaithe20@wikia.com",
+      "gender": "Agender",
+      "jobtitle": "Account Coordinator",
+      "username": "jcalbaithe20"
+    }
+  },
+  {
+    "key": "gbrunicke21",
+    "name": "Gris Brunicke",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "gbrunicke21",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Eire",
+      "department": "Services",
+      "firstname": "Gris",
+      "lastname": "Brunicke",
+      "email": "gbrunicke21@shutterfly.com",
+      "gender": "Male",
+      "jobtitle": "VP Marketing",
+      "username": "gbrunicke21"
+    }
+  },
+  {
+    "key": "tbygrave22",
+    "name": "Talia Bygrave",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "tbygrave22",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Wikido",
+      "department": "Marketing",
+      "firstname": "Talia",
+      "lastname": "Bygrave",
+      "email": "tbygrave22@cnn.com",
+      "gender": "Female",
+      "jobtitle": "Recruiting Manager",
+      "username": "tbygrave22"
+    }
+  },
+  {
+    "key": "hritchings23",
+    "name": "Hazel Ritchings",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "hritchings23",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Tazz",
+      "department": "Services",
+      "firstname": "Hazel",
+      "lastname": "Ritchings",
+      "email": "hritchings23@paginegialle.it",
+      "gender": "Female",
+      "jobtitle": "Geological Engineer",
+      "username": "hritchings23"
+    }
+  },
+  {
+    "key": "bradage24",
+    "name": "Bessy Radage",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "bradage24",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Kwimbee",
+      "department": "Engineering",
+      "firstname": "Bessy",
+      "lastname": "Radage",
+      "email": "bradage24@privacy.gov.au",
+      "gender": "Female",
+      "jobtitle": "Chemical Engineer",
+      "username": "bradage24"
+    }
+  },
+  {
+    "key": "ahabert25",
+    "name": "Aldric Habert",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "ahabert25",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Ozu",
+      "department": "Business Development",
+      "firstname": "Aldric",
+      "lastname": "Habert",
+      "email": "ahabert25@ifeng.com",
+      "gender": "Male",
+      "jobtitle": "Paralegal",
+      "username": "ahabert25"
+    }
+  },
+  {
+    "key": "gbrinkley26",
+    "name": "Gregor Brinkley",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "gbrinkley26",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Devcast",
+      "department": "Product Management",
+      "firstname": "Gregor",
+      "lastname": "Brinkley",
+      "email": "gbrinkley26@google.de",
+      "gender": "Male",
+      "jobtitle": "Systems Administrator IV",
+      "username": "gbrinkley26"
+    }
+  },
+  {
+    "key": "hmarples27",
+    "name": "Harv Marples",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "hmarples27",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Thoughtsphere",
+      "department": "Product Management",
+      "firstname": "Harv",
+      "lastname": "Marples",
+      "email": "hmarples27@shutterfly.com",
+      "gender": "Male",
+      "jobtitle": "Design Engineer",
+      "username": "hmarples27"
+    }
+  },
+  {
+    "key": "swhittier28",
+    "name": "Suellen Whittier",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "swhittier28",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Jayo",
+      "department": "Business Development",
+      "firstname": "Suellen",
+      "lastname": "Whittier",
+      "email": "swhittier28@mozilla.org",
+      "gender": "Female",
+      "jobtitle": "Recruiting Manager",
+      "username": "swhittier28"
+    }
+  },
+  {
+    "key": "lsergeant29",
+    "name": "Lori Sergeant",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "lsergeant29",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Jabberbean",
+      "department": "Product Management",
+      "firstname": "Lori",
+      "lastname": "Sergeant",
+      "email": "lsergeant29@nyu.edu",
+      "gender": "Female",
+      "jobtitle": "Help Desk Technician",
+      "username": "lsergeant29"
+    }
+  },
+  {
+    "key": "bgershom2a",
+    "name": "Brynne Gershom",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "bgershom2a",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Teklist",
+      "department": "Services",
+      "firstname": "Brynne",
+      "lastname": "Gershom",
+      "email": "bgershom2a@nyu.edu",
+      "gender": "Female",
+      "jobtitle": "Web Developer I",
+      "username": "bgershom2a"
+    }
+  },
+  {
+    "key": "moxshott2b",
+    "name": "Milicent Oxshott",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "moxshott2b",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Latz",
+      "department": "Human Resources",
+      "firstname": "Milicent",
+      "lastname": "Oxshott",
+      "email": "moxshott2b@com.com",
+      "gender": "Female",
+      "jobtitle": "Senior Editor",
+      "username": "moxshott2b"
+    }
+  },
+  {
+    "key": "fkassidy2c",
+    "name": "Fin Kassidy",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "fkassidy2c",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Viva",
+      "department": "Training",
+      "firstname": "Fin",
+      "lastname": "Kassidy",
+      "email": "fkassidy2c@eepurl.com",
+      "gender": "Male",
+      "jobtitle": "Quality Control Specialist",
+      "username": "fkassidy2c"
+    }
+  },
+  {
+    "key": "ejosipovitz2d",
+    "name": "Ev Josipovitz",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "ejosipovitz2d",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Fadeo",
+      "department": "Human Resources",
+      "firstname": "Ev",
+      "lastname": "Josipovitz",
+      "email": "ejosipovitz2d@amazon.co.uk",
+      "gender": "Genderqueer",
+      "jobtitle": "Tax Accountant",
+      "username": "ejosipovitz2d"
+    }
+  },
+  {
+    "key": "ljakolevitch2e",
+    "name": "Leigh Jakolevitch",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "ljakolevitch2e",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Skalith",
+      "department": "Legal",
+      "firstname": "Leigh",
+      "lastname": "Jakolevitch",
+      "email": "ljakolevitch2e@reddit.com",
+      "gender": "Female",
+      "jobtitle": "Assistant Professor",
+      "username": "ljakolevitch2e"
+    }
+  },
+  {
+    "key": "eneilus2f",
+    "name": "Elvera Neilus",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "eneilus2f",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Kayveo",
+      "department": "Business Development",
+      "firstname": "Elvera",
+      "lastname": "Neilus",
+      "email": "eneilus2f@webnode.com",
+      "gender": "Female",
+      "jobtitle": "Safety Technician III",
+      "username": "eneilus2f"
+    }
+  },
+  {
+    "key": "lponton2g",
+    "name": "Leonardo Ponton",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "lponton2g",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Kimia",
+      "department": "Services",
+      "firstname": "Leonardo",
+      "lastname": "Ponton",
+      "email": "lponton2g@paypal.com",
+      "gender": "Male",
+      "jobtitle": "Computer Systems Analyst III",
+      "username": "lponton2g"
+    }
+  },
+  {
+    "key": "igervaise2h",
+    "name": "Igor Gervaise",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "igervaise2h",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Realpoint",
+      "department": "Marketing",
+      "firstname": "Igor",
+      "lastname": "Gervaise",
+      "email": "igervaise2h@businessinsider.com",
+      "gender": "Male",
+      "jobtitle": "Actuary",
+      "username": "igervaise2h"
+    }
+  },
+  {
+    "key": "bfather2i",
+    "name": "Brewer Father",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "bfather2i",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Camimbo",
+      "department": "Legal",
+      "firstname": "Brewer",
+      "lastname": "Father",
+      "email": "bfather2i@stanford.edu",
+      "gender": "Male",
+      "jobtitle": "Internal Auditor",
+      "username": "bfather2i"
+    }
+  },
+  {
+    "key": "lbuzin2j",
+    "name": "Laurianne Buzin",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "lbuzin2j",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Trunyx",
+      "department": "Engineering",
+      "firstname": "Laurianne",
+      "lastname": "Buzin",
+      "email": "lbuzin2j@symantec.com",
+      "gender": "Female",
+      "jobtitle": "Automation Specialist IV",
+      "username": "lbuzin2j"
+    }
+  },
+  {
+    "key": "oclackers2k",
+    "name": "Orion Clackers",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "oclackers2k",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Kayveo",
+      "department": "Training",
+      "firstname": "Orion",
+      "lastname": "Clackers",
+      "email": "oclackers2k@usgs.gov",
+      "gender": "Male",
+      "jobtitle": "Software Consultant",
+      "username": "oclackers2k"
+    }
+  },
+  {
+    "key": "rpoulett2l",
+    "name": "Rennie Poulett",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "rpoulett2l",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Bubblebox",
+      "department": "Training",
+      "firstname": "Rennie",
+      "lastname": "Poulett",
+      "email": "rpoulett2l@cargocollective.com",
+      "gender": "Female",
+      "jobtitle": "Web Designer II",
+      "username": "rpoulett2l"
+    }
+  },
+  {
+    "key": "lthoresbie2m",
+    "name": "Lishe Thoresbie",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "lthoresbie2m",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Dynava",
+      "department": "Human Resources",
+      "firstname": "Lishe",
+      "lastname": "Thoresbie",
+      "email": "lthoresbie2m@geocities.com",
+      "gender": "Female",
+      "jobtitle": "Civil Engineer",
+      "username": "lthoresbie2m"
+    }
+  },
+  {
+    "key": "bmartineau2n",
+    "name": "Burgess Martineau",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "bmartineau2n",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Inactive",
+    "attribute": {
+      "company": "Tagtune",
+      "department": "Training",
+      "firstname": "Burgess",
+      "lastname": "Martineau",
+      "email": "bmartineau2n@wix.com",
+      "gender": "Male",
+      "jobtitle": "Clinical Specialist",
+      "username": "bmartineau2n"
+    }
+  },
+  {
+    "key": "aalldritt2o",
+    "name": "Aubrey Alldritt",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "aalldritt2o",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Leenti",
+      "department": "Legal",
+      "firstname": "Aubrey",
+      "lastname": "Alldritt",
+      "email": "aalldritt2o@zdnet.com",
+      "gender": "Male",
+      "jobtitle": "Information Systems Manager",
+      "username": "aalldritt2o"
+    }
+  },
+  {
+    "key": "mfarmery2p",
+    "name": "Margot Farmery",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "mfarmery2p",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Linktype",
+      "department": "Services",
+      "firstname": "Margot",
+      "lastname": "Farmery",
+      "email": "mfarmery2p@hexun.com",
+      "gender": "Female",
+      "jobtitle": "Structural Analysis Engineer",
+      "username": "mfarmery2p"
+    }
+  },
+  {
+    "key": "aabbess2q",
+    "name": "Augustine Abbess",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "aabbess2q",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Retired",
+    "attribute": {
+      "company": "Fatz",
+      "department": "Services",
+      "firstname": "Augustine",
+      "lastname": "Abbess",
+      "email": "aabbess2q@theatlantic.com",
+      "gender": "Female",
+      "jobtitle": "Compensation Analyst",
+      "username": "aabbess2q"
+    }
+  },
+  {
+    "key": "vrowthorn2r",
+    "name": "Vannie Rowthorn",
+    "type": "user",
+    "icon": "/icons/user.svg",
+    "owner": "vrowthorn2r",
+    "tag": ["user", "employee", "_blueprint-helix-showcase-onboarding"],
+    "status": "Active",
+    "attribute": {
+      "company": "Jaxworks",
+      "department": "Human Resources",
+      "firstname": "Vannie",
+      "lastname": "Rowthorn",
+      "email": "vrowthorn2r@webeden.co.uk",
+      "gender": "Female",
+      "jobtitle": "VP Quality Control",
+      "username": "vrowthorn2r"
+    }
+  }
+]

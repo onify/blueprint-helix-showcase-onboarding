@@ -1,0 +1,88 @@
+{
+  "workflow": [
+    {
+      "key": "employee-onboarding",
+      "name": "Employee onboarding",
+      "bpmnresource": "/flows/employee-onboarding.bpmn",
+      "tag": [
+        "hr",
+        "blueprint-helix-showcase-onboarding"
+      ]
+    }
+  ],
+  "workspace": [
+    {
+      "title": "Employees",
+      "name": "Employees",
+      "slug": "employees",
+      "description": "List active employees",
+      "tag": [
+        "blueprint-helix-showcase-onboarding",
+        "hr"
+      ],
+      "query": "{\"bool\": {\"must\": {\"query_string\": {\"query\": \"{{term}}\",\"fields\": [\"key^6\",\"name^4\",\"tag\",\"status\",\"keyword\",\"description\",\"owner\",\"action.name\",\"attachment.name\",\"attribute.*\"],\"default_operator\": \"AND\",\"analyze_wildcard\": true,\"lenient\": true}},\"filter\": {\"bool\": {\"must\": [{\"term\": {\"type\": \"user\"}},{\"term\": {\"tag\": \"employee\"}},{\"term\": {\"status\": \"active\"}}]}}}}",
+      "order": 100,
+      "shared": true,
+      "owner": "admin",
+      "export": {
+        "enabled": true
+      }
+    }
+  ],
+  "option": [
+    {
+      "value": "Sales",
+      "key": "sales",
+      "name": "Sales",
+      "tag": ["department", "hr", "blueprint-helix-showcase-onboarding"]
+    },
+    {
+      "value": "Product Management",
+      "key": "product-management",
+      "name": "Product Management",
+      "tag": ["department", "hr", "blueprint-helix-showcase-onboarding"]
+    },
+    {
+      "value": "Legal",
+      "key": "legal",
+      "name": "Legal",
+      "tag": ["department", "hr", "blueprint-helix-showcase-onboarding"]
+    },
+    {
+      "value": "Services",
+      "key": "services",
+      "name": "Services",
+      "tag": ["department", "hr", "blueprint-helix-showcase-onboarding"]
+    },
+    {
+      "value": "Business Development",
+      "key": "business-development",
+      "name": "Business Development",
+      "tag": ["department", "hr", "blueprint-helix-showcase-onboarding"]
+    },
+    {
+      "value": "Engineering",
+      "key": "engineering",
+      "name": "Engineering",
+      "tag": ["department", "hr", "blueprint-helix-showcase-onboarding"]
+    },
+    {
+      "value": "Marketing",
+      "key": "marketing",
+      "name": "Marketing",
+      "tag": ["department", "hr", "blueprint-helix-showcase-onboarding"]
+    },
+    {
+      "value": "Human Resources",
+      "key": "human-resources",
+      "name": "Human Resources",
+      "tag": ["department", "hr", "blueprint-helix-showcase-onboarding"]
+    },
+    {
+      "value": "Training",
+      "key": "training",
+      "name": "Training",
+      "tag": ["department", "hr", "blueprint-helix-showcase-onboarding"]
+    }
+  ]
+}
