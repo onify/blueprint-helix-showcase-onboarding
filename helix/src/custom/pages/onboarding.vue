@@ -1,6 +1,5 @@
 <template>
-  <h-form-container>
-    <h-page-head title="Onboarding Form"></h-page-head>
+  <h-form-container page-title="Onboarding Form">
     <v-tabs v-if="tab !== 3" v-model="tab">
       <v-tab :value="0">Personal details</v-tab>
       <v-tab :value="1" :disabled="!isPersonalDetailsFormValid">Employment details</v-tab>
@@ -83,13 +82,13 @@ async function submit() {
   if (valid) {
     isSubmitting.value = true;
     const response = await hHttpRequest({
-        url: 'my/processes/start/employee-onboarding',
-        method: 'post',
-        payload: {
-          title: `Employee onboarding by ${oUser.value.name}`,
-          description: `${formData.firstName} ${formData.lastName}`,
-          input: formData
-        }
+      url: 'my/processes/start/employee-onboarding',
+      method: 'post',
+      payload: {
+        title: `Employee onboarding by ${oUser.value.name}`,
+        description: `${formData.firstName} ${formData.lastName}`,
+        input: formData
+      }
     }).response();
     isSubmitting.value = false;
     if (response?.status === HTTPStatusCode.CREATED) {
