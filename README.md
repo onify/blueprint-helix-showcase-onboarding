@@ -14,8 +14,8 @@ While this adeptly integrates with our **API** to initiate a **BPMN workflow**, 
 
 ## Requirements
 
-* [Onify Hub](https://github.com/onify/install)
-* [Onify Helix App](https://github.com/onify/helix-app-boilerplate)
+* Onify Hub
+* Onify Helix (v0.30.0 or higher)
 
 ## Included
 
